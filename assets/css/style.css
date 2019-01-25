@@ -43,10 +43,9 @@ h1 {
 }
 
 .content {
-   height: 100%;
    width: 100%;
    text-align: center;
-   margin-top: 250px;
+   padding-top: 150px;
 }
 
 .content-background-gravel {
